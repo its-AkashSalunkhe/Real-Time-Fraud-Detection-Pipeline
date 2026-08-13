@@ -479,16 +479,11 @@ Real-Time-Fraud-Detection-Pipeline/
 ├── notebooks/
 │   └── fraud_detection.ipynb
 │
-├── src/
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── predict.py
-│   └── simulator.py
-│
-├── models/
-│   ├── fraud_model.pkl
-│   ├── feature_columns.pkl
-│   └── encoders.pkl
+├── artifacts/
+│   ├── cat_cols.pkl
+│   ├── encoders.pkl
+|   ├── feature_cols.pkl
+│   └── fraud_model.pkl
 │
 ├── database/
 │   └── fraud_detection.db
