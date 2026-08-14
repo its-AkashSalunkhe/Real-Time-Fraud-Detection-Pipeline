@@ -476,7 +476,7 @@ The Streamlit dashboard provides a monitoring layer over the fraud detection pip
 ## 🎥 Live Simulation
 
 <p align="center">
-<img src="assets/demo.gif" width="95%">
+<img src="assets/overview.gif" width="95%">
 </p>
 
 > A short demonstration of transactions being scored and reflected in the monitoring dashboard.
