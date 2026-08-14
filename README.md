@@ -425,12 +425,10 @@ The Streamlit dashboard provides a monitoring layer over the fraud detection pip
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshots inside the `assets/` directory.
-
 ### 🏠 Fraud Monitoring Overview
 
 <p align="center">
-<img src="assets/dashboard-overview.png" width="95%">
+<img src="assets/dashboard.png" width="95%">
 </p>
 
 ---
@@ -438,16 +436,40 @@ The Streamlit dashboard provides a monitoring layer over the fraud detection pip
 ### 🚨 Flagged Transactions
 
 <p align="center">
-<img src="assets/flagged-transactions.png" width="95%">
+<img src="assets/flag_transactions.png" width="95%">
 </p>
 
 ---
 
-### 📊 Risk Distribution
+### ⚠️ Risk Distribution
 
 <p align="center">
-<img src="assets/risk-distribution.png" width="95%">
+<img src="assets/probability_distrubution.png" width="95%">
 </p>
+
+---
+
+### 📊 Visualizations
+
+<p align="center">
+<img src="assets/amount_vs_score.png" width="95%"><b> Amount VS Score</b>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/fraud_rate_by_device.png" width="450px" alt="Fraud Rate by Device"/><br />
+        <b>Fraud Rate by Device</b>
+      </td>
+      <td align="center">
+        <img src="assets/fraud_rate_by_product.png" width="450px" alt="Fraud Rate by Product"/><br />
+        <b>Fraud Rate by Product</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
